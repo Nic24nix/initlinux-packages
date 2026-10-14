@@ -1,5 +1,7 @@
 # InitPkg repository index v1
+fastfetch|2.68.1|x86_64|Mostra informação do sistema com estilo|yyjson,libgcc-runtime|e6830410c4f7dfa7e57778a24696c6d4d7ea1e2420f973df4c6a0cb9e1d53014|https://github.com/Nic24nix/initlinux-packages/releases/download/fastfetch-2.68.1/fastfetch-2.68.1.ipkg
 hello|1.0.0|x86_64|Programa de teste da Init Linux|-|623a2fcead1f2fc01d3d7264ab17dd1284af8fa96b65f8e4724747431e25d3d9|https://github.com/Nic24nix/initlinux-packages/releases/download/hello-1.0.0/hello-1.0.0.ipkg
 hello|1.0.1|x86_64|Programa de teste para validar initpkg upgrade|-|35098f9eee23a6b51e41216d47720280eb5954f14a078bf8af2c253e0038edaa|https://github.com/Nic24nix/initlinux-packages/releases/download/hello-1.0.1/hello-1.0.1.ipkg
 initpkg|0.3.0|x86_64|Gestor de pacotes da distribuição Init Linux|-|209db9446c270979e99008f9e715fa0073d24ffad29145e7caa49bc6699a3898|https://github.com/Nic24nix/initlinux-packages/releases/download/initpkg-0.3.0/initpkg-0.3.0.ipkg
 init-system|0.6.0|x86_64|PID 1 supervisor, service manager and shutdown commands for Init Linux|-|27e4b26bffb762718ac3dacc10206a9ee922c04f257fe1964a0adca4e97de35f|https://github.com/Nic24nix/initlinux-packages/releases/download/init-system-0.6.0/init-system-0.6.0.ipkg
+yyjson|0.12.0|x86_64|Biblioteca JSON yyjson requerida por fastfetch|-|6073cacd03ce9849d86c2df3d7c0db09c84d6f20a890bfc524760768c52c6811|https://github.com/Nic24nix/initlinux-packages/releases/download/yyjson-0.12.0/yyjson-0.12.0.ipkg
