@@ -1,1 +1,2 @@
 # InitPkg repository index v1
+hello|1.0.0|x86_64|Programa de teste da Init Linux|-|623a2fcead1f2fc01d3d7264ab17dd1284af8fa96b65f8e4724747431e25d3d9|https://github.com/Nic24nix/initlinux-packages/releases/download/hello-1.0.0/hello-1.0.0.ipkg
